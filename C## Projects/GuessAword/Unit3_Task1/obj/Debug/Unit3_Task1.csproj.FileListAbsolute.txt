@@ -1,0 +1,26 @@
+C:\Users\Ale\Dropbox\NHCC\NHCC\Spring 2018\Prog. in C# for .NET\Assignments\Unit3_Task1\Unit3_Task1\bin\Debug\Unit3_Task1.exe.config
+C:\Users\Ale\Dropbox\NHCC\NHCC\Spring 2018\Prog. in C# for .NET\Assignments\Unit3_Task1\Unit3_Task1\bin\Debug\Unit3_Task1.exe
+C:\Users\Ale\Dropbox\NHCC\NHCC\Spring 2018\Prog. in C# for .NET\Assignments\Unit3_Task1\Unit3_Task1\bin\Debug\Unit3_Task1.pdb
+C:\Users\Ale\Dropbox\NHCC\NHCC\Spring 2018\Prog. in C# for .NET\Assignments\Unit3_Task1\Unit3_Task1\obj\Debug\Unit3_Task1.GuessAWord.resources
+C:\Users\Ale\Dropbox\NHCC\NHCC\Spring 2018\Prog. in C# for .NET\Assignments\Unit3_Task1\Unit3_Task1\obj\Debug\Unit3_Task1.Properties.Resources.resources
+C:\Users\Ale\Dropbox\NHCC\NHCC\Spring 2018\Prog. in C# for .NET\Assignments\Unit3_Task1\Unit3_Task1\obj\Debug\Unit3_Task1.csproj.GenerateResource.Cache
+C:\Users\Ale\Dropbox\NHCC\NHCC\Spring 2018\Prog. in C# for .NET\Assignments\Unit3_Task1\Unit3_Task1\obj\Debug\Unit3_Task1.exe
+C:\Users\Ale\Dropbox\NHCC\NHCC\Spring 2018\Prog. in C# for .NET\Assignments\Unit3_Task1\Unit3_Task1\obj\Debug\Unit3_Task1.pdb
+C:\Users\Ale\Desktop\GitHub\Projects\C##\GuessAWord\Unit3_Task1\Unit3_Task1\bin\Debug\Unit3_Task1.exe.config
+C:\Users\Ale\Desktop\GitHub\Projects\C##\GuessAWord\Unit3_Task1\Unit3_Task1\bin\Debug\Unit3_Task1.exe
+C:\Users\Ale\Desktop\GitHub\Projects\C##\GuessAWord\Unit3_Task1\Unit3_Task1\bin\Debug\Unit3_Task1.pdb
+C:\Users\Ale\Desktop\GitHub\Projects\C##\GuessAWord\Unit3_Task1\Unit3_Task1\obj\Debug\Unit3_Task1.csprojResolveAssemblyReference.cache
+C:\Users\Ale\Desktop\GitHub\Projects\C##\GuessAWord\Unit3_Task1\Unit3_Task1\obj\Debug\Unit3_Task1.GuessAWord.resources
+C:\Users\Ale\Desktop\GitHub\Projects\C##\GuessAWord\Unit3_Task1\Unit3_Task1\obj\Debug\Unit3_Task1.Properties.Resources.resources
+C:\Users\Ale\Desktop\GitHub\Projects\C##\GuessAWord\Unit3_Task1\Unit3_Task1\obj\Debug\Unit3_Task1.csproj.GenerateResource.Cache
+C:\Users\Ale\Desktop\GitHub\Projects\C##\GuessAWord\Unit3_Task1\Unit3_Task1\obj\Debug\Unit3_Task1.exe
+C:\Users\Ale\Desktop\GitHub\Projects\C##\GuessAWord\Unit3_Task1\Unit3_Task1\obj\Debug\Unit3_Task1.pdb
+C:\Users\Ale\Desktop\GitHub\Projects\C##\GuessAWord\GuessAword\Unit3_Task1\bin\Debug\Unit3_Task1.exe.config
+C:\Users\Ale\Desktop\GitHub\Projects\C##\GuessAWord\GuessAword\Unit3_Task1\bin\Debug\Unit3_Task1.exe
+C:\Users\Ale\Desktop\GitHub\Projects\C##\GuessAWord\GuessAword\Unit3_Task1\bin\Debug\Unit3_Task1.pdb
+C:\Users\Ale\Desktop\GitHub\Projects\C##\GuessAWord\GuessAword\Unit3_Task1\obj\Debug\Unit3_Task1.csprojResolveAssemblyReference.cache
+C:\Users\Ale\Desktop\GitHub\Projects\C##\GuessAWord\GuessAword\Unit3_Task1\obj\Debug\Unit3_Task1.GuessAWord.resources
+C:\Users\Ale\Desktop\GitHub\Projects\C##\GuessAWord\GuessAword\Unit3_Task1\obj\Debug\Unit3_Task1.Properties.Resources.resources
+C:\Users\Ale\Desktop\GitHub\Projects\C##\GuessAWord\GuessAword\Unit3_Task1\obj\Debug\Unit3_Task1.csproj.GenerateResource.Cache
+C:\Users\Ale\Desktop\GitHub\Projects\C##\GuessAWord\GuessAword\Unit3_Task1\obj\Debug\Unit3_Task1.exe
+C:\Users\Ale\Desktop\GitHub\Projects\C##\GuessAWord\GuessAword\Unit3_Task1\obj\Debug\Unit3_Task1.pdb
